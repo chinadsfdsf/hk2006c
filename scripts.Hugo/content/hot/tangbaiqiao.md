@@ -16,10 +16,10 @@ categories:
 
 # ===
 
-{{< mydiv4o link="https://hk2006c.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006c 8 " >}}
-{{< mydiv4o link="https://hk2006b.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006b 7 6 5 " >}}
-{{< mydiv4o link="https://hk2006a.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006a 4 3 1 " >}}
-{{< mydiv4o link="https://hk2005f.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2005f 2 " >}}
+{{< mydiv4o link="https://hk2006c.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006c 袁弓夷(袁爸爸) 8 " >}}
+{{< mydiv4o link="https://hk2006b.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006b 袁弓夷(袁爸爸) 7 6 5 " >}}
+{{< mydiv4o link="https://hk2006a.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006a 袁弓夷(袁爸爸) 4 3 1 " >}}
+{{< mydiv4o link="https://hk2005f.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2005f 袁弓夷(袁爸爸) 2 " >}}
 
 {{< my2genlistbytag "tangbaiqiao" >}}
 
