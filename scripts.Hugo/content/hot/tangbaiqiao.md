@@ -16,6 +16,7 @@ categories:
 
 # ===
 
+{{< mydiv4o link="/blog/2020/06/17/../17/20200617_ivgqf0gpfec" text=" 江峰對話袁弓夷先生，談談中印戰爭、北朝鮮、和香港國安法（江峰直播20200617） " >}}
 {{< mydiv4o link="https://hk2006c.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006c 袁弓夷(袁爸爸) 8 " >}}
 {{< mydiv4o link="https://hk2006b.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006b 袁弓夷(袁爸爸) 7 6 5 " >}}
 {{< mydiv4o link="https://hk2006a.chinadsf.org/byauthor/23ac1eed043b009eac214f05797e5869/index.html" text=" 珍言真語 2006a 袁弓夷(袁爸爸) 4 3 1 " >}}
